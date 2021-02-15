@@ -5,11 +5,11 @@ class App {
   constructor() {
     this.server = express();
     this.middlewares();
-    this.routes();
+    this.routes()
   }
 
   middlewares() {
-    this.server.use(express.json());
+    this.server.use(express.json())
   }
 
   routes() {
@@ -17,4 +17,4 @@ class App {
   }
 }
 
-export default new App().server;
+export default new App().server
