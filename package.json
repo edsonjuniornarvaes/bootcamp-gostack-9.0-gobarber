@@ -23,5 +23,7 @@
     "prettier": "^2.2.1",
     "sequelize-cli": "^6.2.0",
     "sucrase": "^3.17.1"
-  }
+  },
+  "repository": "https://github.com/edsonjuniornarvaes/bootcamp-gostack-9.0-gobarber.git",
+  "author": "edsonjuniornarvaes <edsonjunior.narvaes@gmail.com>"
 }
