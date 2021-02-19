@@ -1,2 +1,2 @@
-# Bootcamp GoStack 9.0 - GoBarber
-Rocketseat Bootcamp GoStack 9.0 - Desenvolvimento da aplicação GoBarber.
+# Bootcamp GoStack 9.0 | NodeJS - GoBarber
+Rocketseat Bootcamp GoStack 9.0 | NodeJS - Desenvolvimento da aplicação GoBarber.
